@@ -34,7 +34,7 @@
   <properties>
     <avro.version>1.8.1</avro.version>
     <kinetica.version>6.2.0</kinetica.version>
-    <org.json.version>20170516</org.json.version>
+    <org.json.version>20230227</org.json.version>
   </properties>
   <dependencies>
     <dependency>
